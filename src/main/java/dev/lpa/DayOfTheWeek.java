@@ -1,5 +1,5 @@
 package dev.lpa;
 
 public enum DayOfTheWeek {
-    SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
+    SUN, MON, TUES, WED, THURS, FRI, SAT
 }
